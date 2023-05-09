@@ -1,4 +1,4 @@
-#   projekt_2.py:   První projekt do Engeto Online Python Akademie
+#   projekt_2.py:   Druhý projekt do Engeto Online Python Akademie
 
 #   autor:          Jan Buček
 #   email:          honzabuci@seznam.cz
